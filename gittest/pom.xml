@@ -13,7 +13,6 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <selenium.version>2.48.2</selenium.version>
-    <vaadin-testbench.version>4.0.2</vaadin-testbench.version>
 	</properties>
 	
 	<dependencies>
