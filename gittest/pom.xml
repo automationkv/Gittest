@@ -41,6 +41,8 @@
   
 	<distributionManagement>
 	<repository>
+	<id>gittest-Release</id>
+	<name>Release Repository</name>
 	<url>https://github.com/automationkv/Gittest.git</url>
 	</repository>
 	</distributionManagement>
