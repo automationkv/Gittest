@@ -38,4 +38,11 @@
 		<version>6.9.10</version>
 	</dependency>
   </dependencies>
+  
+	<distributionManagement>
+	<repository>
+	<url>https://github.com/automationkv/Gittest.git</url>
+	</repository>
+	</distributionManagement>
+	
 </project>
